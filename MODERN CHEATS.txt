@@ -1,0 +1,2 @@
+-- KEY ABCD-EFGH-IJKL-MNOP
+loadstring(game:HttpGet("https://pastebin.com/raw/9wxz3BH5"))()
